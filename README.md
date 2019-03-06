@@ -1,6 +1,6 @@
 # advanced-CSS-SASS-project
 
-#Goals of this project are:
+Goals of this project are:
 
 1) To use Most modern and advanced CSS properties and techniques;
 
